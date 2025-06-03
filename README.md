@@ -4,14 +4,14 @@ Este proyecto es una simulación por consola de un juego entre un **ratón que i
 
 ---
 
-## 🎯 Objetivo del Juego
+## 🎯 Objetivo
 
 - El **gato** intentará alcanzar al ratón y este lo esquivara de el durante los turnos. 
 - El juego se desarrolla en una **rejilla de N x N casillas**.
 
 ---
 
-## 🧠 Inteligencia Artificial
+## 🤖 ALgoritmo
 
 Se utiliza el algoritmo **Minimax con poda alfa-beta** para:
 
